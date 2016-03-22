@@ -15,7 +15,7 @@ if len(sys.argv) > 2:
 else:
 	age = int(raw_input('Enter Age:'))
 
-sawHello = 'Hello ' + name + ','
+sayHello = 'Hello ' + name + ','
 
 if age == 100:
 	sayAge = 'You are already 100 years old!'
